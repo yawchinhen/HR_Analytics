@@ -1,4 +1,4 @@
-# Employee Attrition Prediction and Retention Strategies for HR
+# 💼 Employee Attrition Prediction and Retention Strategies for HR
 
 ## 📌 Introduction
 Employee attrition (turnover) is a critical challenge for businesses, leading to operational inefficiencies, higher recruitment costs, and reduced workforce morale. By leveraging **predictive analytics and machine learning**, organizations can anticipate which employees are at risk of leaving and take proactive measures to improve retention.  
